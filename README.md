@@ -6,7 +6,6 @@ Generalist Programmer
 
 I have been learning to code and develop games for about two years. I have used multiple languages such as c# and c++. I have also used game engines such as Unreal Engine and Unity.
 
-* 🌍  I'm based in Louisiana
 * 🖥️  See my portfolio at [MyLinktree](http://linktr.ee/Joeguillory)
 * ✉️  You can contact me at [JoeGuillory15@gmail.com](mailto:JoeGuillory15@gmail.com)
 * 🧠  I'm currently learning Unity Network for Gameobjects
